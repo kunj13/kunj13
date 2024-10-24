@@ -1,19 +1,22 @@
-# 👋 Hi, I'm Kunj Nehal Golwala, Check out my [Portfolio](https://kunj13.github.io/kunj.github.io/)
+# 🔥 Hi, I'm Kunj Golwala, a robotics enthusiast. Check out my [Portfolio Website](https://kunj13.github.io/kunj.github.io/)
 
-👾 I’m interested in ... Robotics, Computer Vision, Autonomous Systems, and Reinforcement Learning  
-🌱 I’m currently learning ... [Advanced Robotics](#), Deep Learning, and Autonomous Navigation  
-🤝 I’m looking to collaborate on ... AI and Robotics projects that drive real-world impact  
-👨‍🔬 I’m currently working with ... the BMV Lab at the University of Maryland on automation projects using robotic arms and vision systems  
-📫 How to reach me ... kunjgolwala13@gmail.com  
+👾 I’m interested in ... Mobile Robotics, UAVs, Computer Vision, and Robot Control  
+🛠 I’m currently pursuing a Master's in Robotics at the University of Maryland, College Park  
+🤝 I’m looking to collaborate on ... projects in AI, robotics, and computer vision  
+🌟 I’m currently working with ... the Bio-Imaging and Machine Vision Lab, optimizing automation for crab detection using ROS and OpenCV, and manipulating robotic arms using imitation learning  
+📬 How to reach me ... kunjgolwala13@gmail.com  
 
-🎥 See my latest work in robotics here -> Projects:  
-[Quadruped Gait Control with Reinforcement Learning](#) | [AI-Powered Human-Following Robot](#) | [Crab Detection Robotics System](#)
+🎥 See my latest work in robotics here ->  
+[Quadruped Gait Control with Reinforcement Learning](https://github.com/kunj13/Quadruped-Gait-Control-with-Reinforcement-Learning) | [AI-Powered Human-Following Robot](https://github.com/kunj13/Human-Following-Robot) | [Crab Detection Robotics System](https://github.com/kunj13/Crab-Detection-and-Cutting-Automation-System)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunj13&label=Profile%20views&color=0e75b6&style=flat" alt="kunj13" /> </p>
 
-<a href="https://www.linkedin.com/in/kunj-golwala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/kunj-golwala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/kunj13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
-![Kunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunj13&show_icons=true&theme=radical#gh-dark-mode-only)
+---
+
+## 📊 Kunj's GitHub Stats
+![Kunj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunj13&show_icons=true&theme=tokyonight)
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kunj13&show_icons=true&locale=en&layout=compact" alt="kunj13" /></p>
 
@@ -56,3 +59,32 @@
     <img src="https://github-profile-trophy.vercel.app/?username=kunj13" alt="kunj13" />
   </a>
 </p>
+
+---
+
+## 🔧 Projects and Research
+- **Crab Detection Robotics System**  
+  🔹 Automating crab detection using ROS, OpenCV, and MIL, reducing manual labor by 75%  
+  🔹 Developed a Masked CNN model with ResNet 101, boosting detection accuracy by 40%  
+
+- **Quadruped Gait Control with Reinforcement Learning**  
+  🔹 Implemented TD3 Policy Gradient for improving quadruped stability by 75%  
+  🔹 Integrated RL model with Gazebo using custom ROS plugins for real-time feedback control  
+
+- **Localization of UAV**  
+  🔹 Built a visual odometry pipeline with LiDAR, OpenCV, and Aruco markers to boost UAV docking accuracy by 40%  
+  🔹 Implemented sensor fusion with an Extended Kalman Filter for optimal UAV positioning  
+
+- **AI-Powered Human-Following Robot**  
+  🔹 Fine-tuned YOLOv8 for improved human tracking accuracy by 20%  
+  🔹 Integrated Graph-based SLAM and human detection for autonomous navigation using ROS
+
+---
+
+## 🎯 Goals
+- To contribute to impactful projects in **autonomous systems** and **industrial automation**.
+- To bridge the gap between **robotics** and **AI** by working on innovative, real-world applications.
+
+---
+
+Thanks for stopping by! Feel free to reach out or collaborate! 😊
