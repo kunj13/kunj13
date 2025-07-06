@@ -6,6 +6,7 @@ Check out my [Portfolio Website](https://kunj13.github.io/kunj.github.io/)
 🤝 I’m looking to collaborate on ... projects in AI, robotics, and computer vision  
 🌟 I’m currently working with ... the Bio-Imaging and Machine Vision Lab, optimizing automation for crab and mushroom detection using ROS and OpenCV, and manipulating robotic arms using imitation learning  
    I'm currently working as a Perception intern at Symbotic LLC in Boston, MA.
+   
 📬 How to reach me ... kunjgolwala13@gmail.com  
 
 🎥 See my latest work in robotics here ->  
