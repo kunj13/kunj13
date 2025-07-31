@@ -1,5 +1,5 @@
 # 🔥 Hi, I'm Kunj Golwala, a robotics enthusiast !!
-Check out my [Portfolio Website](https://kunj13.github.io/kunj.github.io/)
+Check out my [Portfolio Website](https://kunj1302.github.io/)
 
 👾 I’m interested in ... Mobile Robotics, UAVs, Computer Vision, and Robot Control  
 🛠 I’m currently pursuing a Master's in Robotics at the University of Maryland, College Park  
